@@ -2,17 +2,17 @@
 
 ## Project setup
 ```
-npm install
+npm 
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm  
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm  
 ```
 
 ### Run your tests
